@@ -1,9 +1,8 @@
 <div align="center">
 
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi)](https://git.io/streak-stats)
 
- ###Languages
+ [Languages]
  
  ![C](https://img.shields.io/badge/%E2%80%8E-C-8957e5?style=for-the-badge&logo=C&logoColor=D6E7FF)
  ![C++](https://img.shields.io/badge/%E2%80%8E-C++-8957e5?style=for-the-badge&logo=cplusplus&logoColor=D6E7FF)
@@ -14,5 +13,7 @@
  ![React](https://img.shields.io/badge/%E2%80%8E-React-8957e5?style=for-the-badge&logo=react&logoColor=D6E7FF)
  ![Angular](https://img.shields.io/badge/%E2%80%8E-Angular-8957e5?style=for-the-badge&logo=angular&logoColor=D6E7FF)
 
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi)](https://git.io/streak-stats)
 
 </div>
