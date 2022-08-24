@@ -24,9 +24,9 @@
  
  ### Specialty
  ![Linux](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
+ ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-ad1f5d?style=for-the-badge&logo=amazonaws&logoColor=D6E7FF)
  
  ### Tools
- ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-ad1f5d?style=for-the-badge&logo=amazonaws&logoColor=D6E7FF)
  ![Firebase](https://img.shields.io/badge/%E2%80%8E-Firebase-f77300?style=for-the-badge&logo=Firebase&logoColor=D6E7FF)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-f77300?style=for-the-badge&logo=OWASP&logoColor=D6E7FF)
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-f77300?style=for-the-badge&logo=postman&logoColor=D6E7FF)
