@@ -23,7 +23,7 @@
  ![HTML](https://img.shields.io/badge/%E2%80%8E-HTML-32a85a?style=for-the-badge&logo=html5&logoColor=D6E7FF)
  ![CSS](https://img.shields.io/badge/%E2%80%8E-CSS-32a85a?style=for-the-badge&logo=css3&logoColor=D6E7FF)
  
- ### Specialty
+ ### Specialties
  ![Linux](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
  ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-ad1f5d?style=for-the-badge&logo=amazonaws&logoColor=D6E7FF)
  
