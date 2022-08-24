@@ -19,6 +19,7 @@
  ### Utils
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-32a85a?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL%20Server-32a85a?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
+ 
  ![HTML](https://img.shields.io/badge/%E2%80%8E-HTML-32a85a?style=for-the-badge&logo=html5&logoColor=D6E7FF)
  ![CSS](https://img.shields.io/badge/%E2%80%8E-CSS-32a85a?style=for-the-badge&logo=css3&logoColor=D6E7FF)
  
