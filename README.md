@@ -29,8 +29,8 @@
  ### Tools
  ![Firebase](https://img.shields.io/badge/%E2%80%8E-Firebase-f77300?style=for-the-badge&logo=Firebase&logoColor=D6E7FF)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-f77300?style=for-the-badge&logo=OWASP&logoColor=D6E7FF)
- 
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-f77300?style=for-the-badge&logo=postman&logoColor=D6E7FF)
+ 
  ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-f77300?style=for-the-badge&logo=gnometerminal&logoColor=D6E7FF)
  ![Docker](https://img.shields.io/badge/%E2%80%8E-Docker-f77300?style=for-the-badge&logo=docker&logoColor=D6E7FF)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-f77300?style=for-the-badge&logo=figma&logoColor=D6E7FF)
