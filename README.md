@@ -6,7 +6,7 @@
  
  ![C](https://img.shields.io/badge/%E2%80%8E-C-8957e5?style=for-the-badge&logo=C&logoColor=D6E7FF)
  ![C++](https://img.shields.io/badge/%E2%80%8E-C++-8957e5?style=for-the-badge&logo=cplusplus&logoColor=D6E7FF)
- ![Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-8957e5?style=for-the-badge&logo=webassembly&logoColor=D6E7FF)
+ ![Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-8957e5?style=for-the-badge&logo=assemblyscript&logoColor=D6E7FF)
  
  ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-8957e5?style=for-the-badge&logo=csharp&logoColor=D6E7FF)
  ![Java](https://img.shields.io/badge/%E2%80%8E-Java-8957e5?style=for-the-badge&logo=Oracle&logoColor=D6E7FF)
