@@ -18,10 +18,6 @@
 
  ### Specialties
  ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
-
- ### Utils
- ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-32a85a?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
- ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL%20Server-32a85a?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
  
  ### Suites
  ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-1755ad?style=for-the-badge&logo=amazonaws&logoColor=D6E7FF)
@@ -36,6 +32,10 @@
  ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-f77300?style=for-the-badge&logo=gnometerminal&logoColor=D6E7FF)
  ![Docker](https://img.shields.io/badge/%E2%80%8E-Docker-f77300?style=for-the-badge&logo=docker&logoColor=D6E7FF)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-f77300?style=for-the-badge&logo=figma&logoColor=D6E7FF)
+ 
+ ### Utils
+ ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-32a85a?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
+ ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL%20Server-32a85a?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
 
 
  ### Overview
