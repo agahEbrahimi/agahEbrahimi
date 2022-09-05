@@ -17,10 +17,6 @@
  ![Angular](https://img.shields.io/badge/%E2%80%8E-Angular-8957e5?style=for-the-badge&logo=angular&logoColor=D6E7FF)
  
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-8957e5?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
-
-
- ### Specialty
- ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
  
  ### Utils
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
@@ -36,6 +32,9 @@
  ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-32a85a?style=for-the-badge&logo=googlecloud&logoColor=D6E7FF)
  ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-32a85a?style=for-the-badge&logo=atlassian&logoColor=D6E7FF)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-32a85a?style=for-the-badge&logo=OWASP&logoColor=D6E7FF)
+ 
+ ### Specialty
+ ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
 
  ### Overview
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
