@@ -19,7 +19,7 @@
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-8957e5?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
 
 
- ### Specialties
+ ### Specialty
  ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
  
  ### Utils
@@ -31,7 +31,7 @@
  ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=gnometerminal&logoColor=D6E7FF)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-25abba?style=for-the-badge&logo=figma&logoColor=D6E7FF)
  
-  ### Suites. 
+  ### Suites
  ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-32a85a?style=for-the-badge&logo=amazonaws&logoColor=D6E7FF)
  ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-32a85a?style=for-the-badge&logo=googlecloud&logoColor=D6E7FF)
  ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-32a85a?style=for-the-badge&logo=atlassian&logoColor=D6E7FF)
