@@ -17,7 +17,7 @@
  ![Angular](https://img.shields.io/badge/%E2%80%8E-Angular-8957e5?style=for-the-badge&logo=angular&logoColor=D6E7FF)
 
  ### Specialties
- ![Linux](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
+ ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
 
  ### Utils
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-32a85a?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
