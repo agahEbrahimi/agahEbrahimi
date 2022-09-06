@@ -12,9 +12,9 @@
  ![Java](https://img.shields.io/badge/%E2%80%8E-Java-8957e5?style=for-the-badge&logo=Oracle&logoColor=D6E7FF)
  ![Python](https://img.shields.io/badge/%E2%80%8E-Python-8957e5?style=for-the-badge&logo=Python&logoColor=D6E7FF)
  
- ![Node](https://img.shields.io/badge/%E2%80%8E-Node-8957e5?style=for-the-badge&logo=nodedotjs&logoColor=D6E7FF)
- ![Express](https://img.shields.io/badge/%E2%80%8E-Express-8957e5?style=for-the-badge&logo=javascript&logoColor=D6E7FF)
- ![React](https://img.shields.io/badge/%E2%80%8E-React-8957e5?style=for-the-badge&logo=react&logoColor=D6E7FF)
+ ![Node](https://img.shields.io/badge/%E2%80%8E-Node.JS-8957e5?style=for-the-badge&logo=nodedotjs&logoColor=D6E7FF)
+ ![Express](https://img.shields.io/badge/%E2%80%8E-Express.JS-8957e5?style=for-the-badge&logo=javascript&logoColor=D6E7FF)
+ ![React](https://img.shields.io/badge/%E2%80%8E-React.JS-8957e5?style=for-the-badge&logo=react&logoColor=D6E7FF)
  
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-8957e5?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
  
