@@ -34,7 +34,7 @@
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-32a85a?style=for-the-badge&logo=OWASP&logoColor=D6E7FF)
  
  ### Specialty
- ![Linux](https://img.shields.io/badge/%E2%80%8E-Kernel-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
+ ![Linux](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux&logoColor=D6E7FF)
 
  ### Overview
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
