@@ -15,7 +15,6 @@
  ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-8957e5?style=for-the-badge&logo=csharp&logoColor=D6E7FF)
  ![Java](https://img.shields.io/badge/%E2%80%8E-Java-8957e5?style=for-the-badge&logo=Oracle&logoColor=D6E7FF)
  ![Python](https://img.shields.io/badge/%E2%80%8E-Python-8957e5?style=for-the-badge&logo=Python&logoColor=D6E7FF)
- ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-1755ad?style=for-the-badge&logo=Milvus&logoColor=D6E7FF)
 
  
   ### Databases
