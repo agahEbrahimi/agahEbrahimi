@@ -21,6 +21,7 @@
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-1755ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=D6E7FF)
  ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=D6E7FF)
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=D6E7FF)
+ ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-1755ad?style=for-the-badge&logoColor=D6E7FF374646)
 
 
   ### Tools
