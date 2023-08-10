@@ -30,7 +30,7 @@
 
   ### Tools
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-25abba?style=for-the-badge&logo=postman&logoColor=)
- ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=gnometerminal&logoColor=)
+ ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=termius&logoColor=)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-25abba?style=for-the-badge&logo=figma&logoColor=)
  ![Docker](https://img.shields.io/badge/%E2%80%8E-Docker-25abba?style=for-the-badge&logo=docker&logoColor=)
 
