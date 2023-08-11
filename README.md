@@ -23,9 +23,10 @@
  ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=)
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=)
  
- ![Milvus](https://img.shields.io/badge/Milvus-20B2AA?style=for-the-badge&color=1755ad)
  ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-1755ad?style=for-the-badge&logo=duckdb&logoColor=)
  ![Redis](https://img.shields.io/badge/%E2%80%8E-Redis-1755ad?style=for-the-badge&logo=redis&logoColor=)
+ ![Milvus](https://img.shields.io/badge/Milvus-20B2AA?style=for-the-badge&color=1755ad)
+
 
 
   ### Tools
@@ -42,7 +43,7 @@
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-32a85a?style=for-the-badge&logo=OWASP&logoColor=)
  
  ### Specialties
- ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-ad471f?style=for-the-badge&logo=linux)
+ ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-cfa827?style=for-the-badge&logo=linux)
 
  ### Overview
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
