@@ -38,11 +38,11 @@
   ### Suites
  ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-32a85a?style=for-the-badge&logo=amazonaws&logoColor=)
  ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-32a85a?style=for-the-badge&logo=googlecloud&logoColor=)
- ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-32a85a?style=for-the-badge&logo=atlassian&logoColor=)
+ ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-32a85a?style=for-the-badge&logo=atlassian)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-32a85a?style=for-the-badge&logo=OWASP&logoColor=)
  
  ### Specialties
- ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux&logoColor=)
+ ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-ad1f5d?style=for-the-badge&logo=linux)
 
  ### Overview
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
