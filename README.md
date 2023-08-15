@@ -46,6 +46,6 @@
  ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-cfa827?style=for-the-badge&logo=linux)
 
  ### Overview
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&exclude_days=Sun%2CFri%2CSat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=tokyonight&hide_border=true&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
 
 </div>
