@@ -25,8 +25,7 @@
  
  ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-1755ad?style=for-the-badge&logo=duckdb&logoColor=)
  ![Redis](https://img.shields.io/badge/%E2%80%8E-Redis-1755ad?style=for-the-badge&logo=redis&logoColor=)
- ![Milvus](https://img.shields.io/badge/Milvus-20B2AA?style=for-the-badge&color=1755ad&logo=milvus&logoColor=)
-
+ ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-1755ad?style=for-the-badge&logo=milvus&logoColor=)
 
 
   ### Tools
