@@ -20,7 +20,7 @@
  
   ### Datastores
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-1755ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=)
- ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
+ ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=)
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=)
  
  ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-1755ad?style=for-the-badge&logo=duckdb&logoColor=)
