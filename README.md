@@ -5,18 +5,15 @@
  ### Languages 
  
  ![Node](https://img.shields.io/badge/%E2%80%8E-Node.JS-8957e5?style=for-the-badge&logo=nodedotjs&logoColor=)
- ![Express](https://img.shields.io/badge/%E2%80%8E-Express.JS-8957e5?style=for-the-badge&logo=javascript&logoColor=)
- ![React](https://img.shields.io/badge/%E2%80%8E-React.JS-8957e5?style=for-the-badge&logo=react&logoColor=)
-
  ![Python](https://img.shields.io/badge/%E2%80%8E-Python-8957e5?style=for-the-badge&logo=Python&logoColor=)
+ 
  ![C++](https://img.shields.io/badge/%E2%80%8E-C++-8957e5?style=for-the-badge&logo=cplusplus&logoColor=)
  ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-8957e5?style=for-the-badge&logo=csharp&logoColor=)
-
  ![C](https://img.shields.io/badge/%E2%80%8E-C-8957e5?style=for-the-badge&logo=C&logoColor=)
+ 
  ![Java](https://img.shields.io/badge/%E2%80%8E-Java-8957e5?style=for-the-badge&logo=Oracle&logoColor=)
  ![x86 Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-8957e5?style=for-the-badge&logo=assemblyscript&logoColor=)
-
-
+ 
  
   ### Datastores
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-1755ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=)
