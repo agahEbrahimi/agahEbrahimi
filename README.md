@@ -22,17 +22,23 @@
  ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL-1755ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=)
  ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
  ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=)
- 
+ ![Scylla](https://img.shields.io/badge/%E2%80%8E-Scylla-1755ad?style=for-the-badge&logo=scylladb&logoColor=f5f5f5)
  ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-1755ad?style=for-the-badge&logo=duckdb&logoColor=)
  ![Redis](https://img.shields.io/badge/%E2%80%8E-Redis-1755ad?style=for-the-badge&logo=redis&logoColor=)
  ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-1755ad?style=for-the-badge&logo=milvus&logoColor=)
 
 
   ### Tools
+ ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-25abba?style=for-the-badge&logo=kubernetes&logoColor=)
+ ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-25abba?style=for-the-badge&logo=apachekafka&logoColor=)
+ ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-25abba?style=for-the-badge&logo=apachespark&logoColor=)
+ 
+ ![Prometheus](https://img.shields.io/badge/%E2%80%8E-prometheus-25abba?style=for-the-badge&logo=prometheus&logoColor=)
+ ![Grafana](https://img.shields.io/badge/%E2%80%8E-grafana-25abba?style=for-the-badge&logo=grafana&logoColor=)
+ 
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-25abba?style=for-the-badge&logo=postman&logoColor=)
- ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=termius&logoColor=)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-25abba?style=for-the-badge&logo=figma&logoColor=)
- ![Docker](https://img.shields.io/badge/%E2%80%8E-Docker-25abba?style=for-the-badge&logo=docker&logoColor=)
+ ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=termius&logoColor=)
 
  
   ### Suites
