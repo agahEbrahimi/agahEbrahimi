@@ -29,9 +29,7 @@
  ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-25abba?style=for-the-badge&logo=kubernetes&logoColor=)
  ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-25abba?style=for-the-badge&logo=apachekafka&logoColor=)
  ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-25abba?style=for-the-badge&logo=apachespark&logoColor=)
- 
  ![Prometheus](https://img.shields.io/badge/%E2%80%8E-prometheus-25abba?style=for-the-badge&logo=prometheus&logoColor=)
- ![Grafana](https://img.shields.io/badge/%E2%80%8E-grafana-25abba?style=for-the-badge&logo=grafana&logoColor=)
  
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-25abba?style=for-the-badge&logo=postman&logoColor=)
  ![Figma](https://img.shields.io/badge/%E2%80%8E-Figma-25abba?style=for-the-badge&logo=figma&logoColor=)
