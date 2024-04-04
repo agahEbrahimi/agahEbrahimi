@@ -38,9 +38,9 @@
 
  
   ### Suites
- ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-2C74B3?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
- ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-2C74B3?style=for-the-badge&logo=googlecloud&logoColor=ffffff)
- ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-2C74B3?style=for-the-badge&logo=atlassian&logoColor=ffffff)
+ ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-2C74B3?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+ ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-2C74B3?style=for-the-badge&logo=googlecloud&logoColor=)
+ ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-2C74B3?style=for-the-badge&logo=atlassian&logoColor=0052CC)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-2C74B3?style=for-the-badge&logo=OWASP&logoColor=ffffff)
  
  ### Specialties
