@@ -26,9 +26,9 @@
 
 
   ### Tools
+ ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-205295?style=for-the-badge&logo=kubernetes&logoColor=0079C1)
  ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-205295?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
  ![AirFlow](https://img.shields.io/badge/%E2%80%8E-AirFlow-205295?style=for-the-badge&logo=apacheairflow&logoColor=ffffff)
- ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-205295?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
  ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-205295?style=for-the-badge&logo=termius&logoColor=ffffff)
 
  ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-205295?style=for-the-badge&logo=apachespark&logoColor=)
