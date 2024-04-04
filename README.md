@@ -7,11 +7,11 @@
  ![Node](https://img.shields.io/badge/%E2%80%8E-Node.JS-0A2647?style=for-the-badge&logo=nodedotjs&logoColor=)
  ![Python](https://img.shields.io/badge/%E2%80%8E-Python-0A2647?style=for-the-badge&logo=Python&logoColor=)
  
- ![C++](https://img.shields.io/badge/%E2%80%8E-C++-0A2647?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
- ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-0A2647?style=for-the-badge&logo=csharp&logoColor=ffffff)
- ![C](https://img.shields.io/badge/%E2%80%8E-C-0A2647?style=for-the-badge&logo=C&logoColor=ffffff)
+ ![C++](https://img.shields.io/badge/%E2%80%8E-C++-0A2647?style=for-the-badge&logo=cplusplus&logoColor=659ad2)
+ ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-0A2647?style=for-the-badge&logo=csharp&logoColor=9b4993)
+ ![C](https://img.shields.io/badge/%E2%80%8E-C-0A2647?style=for-the-badge&logo=C&logoColor=5f8dbd)
  
- ![Java](https://img.shields.io/badge/%E2%80%8E-Java-0A2647?style=for-the-badge&logo=Oracle&logoColor=ffffff)
+ ![Java](https://img.shields.io/badge/%E2%80%8E-Java-0A2647?style=for-the-badge&logo=Oracle&logoColor=f80000)
  ![x86 Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-0A2647?style=for-the-badge&logo=assemblyscript&logoColor=ffffff)
  
  
