@@ -4,25 +4,25 @@
 
  ### Languages 
  
- ![Node](https://img.shields.io/badge/%E2%80%8E-Node.JS-8957e5?style=for-the-badge&logo=nodedotjs&logoColor=)
- ![Python](https://img.shields.io/badge/%E2%80%8E-Python-8957e5?style=for-the-badge&logo=Python&logoColor=)
+ ![Node](https://img.shields.io/badge/%E2%80%8E-Node.JS-0A2647?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+ ![Python](https://img.shields.io/badge/%E2%80%8E-Python-0A2647?style=for-the-badge&logo=Python&logoColor=ffffff)
  
- ![C++](https://img.shields.io/badge/%E2%80%8E-C++-8957e5?style=for-the-badge&logo=cplusplus&logoColor=)
- ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-8957e5?style=for-the-badge&logo=csharp&logoColor=)
- ![C](https://img.shields.io/badge/%E2%80%8E-C-8957e5?style=for-the-badge&logo=C&logoColor=)
+ ![C++](https://img.shields.io/badge/%E2%80%8E-C++-0A2647?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+ ![C#](https://img.shields.io/badge/%E2%80%8E-C%23-0A2647?style=for-the-badge&logo=csharp&logoColor=ffffff)
+ ![C](https://img.shields.io/badge/%E2%80%8E-C-0A2647?style=for-the-badge&logo=C&logoColor=ffffff)
  
- ![Java](https://img.shields.io/badge/%E2%80%8E-Java-8957e5?style=for-the-badge&logo=Oracle&logoColor=)
- ![x86 Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-8957e5?style=for-the-badge&logo=assemblyscript&logoColor=)
+ ![Java](https://img.shields.io/badge/%E2%80%8E-Java-0A2647?style=for-the-badge&logo=Oracle&logoColor=ffffff)
+ ![x86 Assembly](https://img.shields.io/badge/%E2%80%8E-Assembly-0A2647?style=for-the-badge&logo=assemblyscript&logoColor=ffffff)
  
  
   ### Datastores
- ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL_Server-1755ad?style=for-the-badge&logo=microsoftsqlserver&logoColor=)
- ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-1755ad?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)
- ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-1755ad?style=for-the-badge&logo=MongoDB&logoColor=)
+ ![SQL Server](https://img.shields.io/badge/%E2%80%8E-SQL_Server-144272?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
+ ![POSTGRES](https://img.shields.io/badge/%E2%80%8E-POSTGRES-144272?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+ ![MongoDB](https://img.shields.io/badge/%E2%80%8E-Mongo-144272?style=for-the-badge&logo=MongoDB&logoColor=)
  
- ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-1755ad?style=for-the-badge&logo=duckdb&logoColor=)
- ![Redis](https://img.shields.io/badge/%E2%80%8E-Redis-1755ad?style=for-the-badge&logo=redis&logoColor=)
- ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-1755ad?style=for-the-badge&logo=milvus&logoColor=)
+ ![DuckDB](https://img.shields.io/badge/%E2%80%8E-DuckDb-144272?style=for-the-badge&logo=duckdb&logoColor=)
+ ![Redis](https://img.shields.io/badge/%E2%80%8E-Redis-144272?style=for-the-badge&logo=redis&logoColor=f56e64)
+ ![Milvus](https://img.shields.io/badge/%E2%80%8E-Milvus-144272?style=for-the-badge&logo=milvus&logoColor=)
 
 
   ### Tools
