@@ -26,22 +26,22 @@
 
 
   ### Tools
- ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-25abba?style=for-the-badge&logo=apachekafka&logoColor=)
- ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-25abba?style=for-the-badge&logo=apachespark&logoColor=)
- ![AirFlow](https://img.shields.io/badge/%E2%80%8E-AirFlow-25abba?style=for-the-badge&logo=apacheairflow&logoColor=)
+ ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-205295?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+ ![AirFlow](https://img.shields.io/badge/%E2%80%8E-AirFlow-205295?style=for-the-badge&logo=apacheairflow&logoColor=ffffff)
+ ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-205295?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+ ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-205295?style=for-the-badge&logo=termius&logoColor=ffffff)
+
+ ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-205295?style=for-the-badge&logo=apachespark&logoColor=)
+ ![Prometheus](https://img.shields.io/badge/%E2%80%8E-prometheus-205295?style=for-the-badge&logo=prometheus&logoColor=)
+ ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-205295?style=for-the-badge&logo=postman&logoColor=)
  
- ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-25abba?style=for-the-badge&logo=kubernetes&logoColor=)
- ![Prometheus](https://img.shields.io/badge/%E2%80%8E-prometheus-25abba?style=for-the-badge&logo=prometheus&logoColor=)
- 
- ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-25abba?style=for-the-badge&logo=postman&logoColor=)
- ![Termius](https://img.shields.io/badge/%E2%80%8E-Termius-25abba?style=for-the-badge&logo=termius&logoColor=)
 
  
   ### Suites
- ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-32a85a?style=for-the-badge&logo=amazonaws&logoColor=)
- ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-32a85a?style=for-the-badge&logo=googlecloud&logoColor=)
- ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-32a85a?style=for-the-badge&logo=atlassian)
- ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-32a85a?style=for-the-badge&logo=OWASP&logoColor=)
+ ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-2C74B3?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+ ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-2C74B3?style=for-the-badge&logo=googlecloud&logoColor=ffffff)
+ ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-2C74B3?style=for-the-badge&logo=atlassian&logoColor=ffffff)
+ ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-2C74B3?style=for-the-badge&logo=OWASP&logoColor=ffffff)
  
  ### Specialties
  ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-cfa827?style=for-the-badge&logo=linux)
