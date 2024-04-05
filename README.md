@@ -31,8 +31,8 @@
  ![Kubernetes](https://img.shields.io/badge/%E2%80%8E-Kubernetes-205295?style=for-the-badge&logo=kubernetes&logoColor=0079C1)
  ![Kafka](https://img.shields.io/badge/%E2%80%8E-Kafka-205295?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
  ![AirFlow](https://img.shields.io/badge/%E2%80%8E-AirFlow-205295?style=for-the-badge&logo=apacheairflow&logoColor=ffffff)
-
- ![Spark](https://img.shields.io/badge/%E2%80%8E-Spark-205295?style=for-the-badge&logo=apachespark&logoColor=)
+ 
+ ![Pulumi](https://img.shields.io/badge/%E2%80%8E-Pulumi-2C74B3?style=for-the-badge&logo=pulumi&logoColor=ffffff)
  ![Prometheus](https://img.shields.io/badge/%E2%80%8E-prometheus-205295?style=for-the-badge&logo=prometheus&logoColor=)
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-205295?style=for-the-badge&logo=postman&logoColor=)
  
@@ -43,7 +43,7 @@
  ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-2C74B3?style=for-the-badge&logo=googlecloud&logoColor=)
  ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-2C74B3?style=for-the-badge&logo=atlassian&logoColor=ffffff)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-2C74B3?style=for-the-badge&logo=OWASP&logoColor=ffffff)
- 
+
  ### Specialties
  ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-cfa827?style=for-the-badge&logo=linux)
 
