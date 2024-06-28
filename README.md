@@ -44,8 +44,6 @@
  ![Atlassian](https://img.shields.io/badge/%E2%80%8E-Atlassian-2C74B3?style=for-the-badge&logo=atlassian&logoColor=ffffff)
  ![OWASP](https://img.shields.io/badge/%E2%80%8E-OWASP-2C74B3?style=for-the-badge&logo=OWASP&logoColor=ffffff)
 
- ### Specialties
- ![Linux Kernel](https://img.shields.io/badge/%E2%80%8E-Linux-cfa827?style=for-the-badge&logo=linux)
 
  ### Overview
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=prussian&exclude_days=Fri%2CSat&excludeDaysLabel=EB545400)]()
