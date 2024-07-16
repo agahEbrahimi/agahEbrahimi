@@ -46,6 +46,6 @@
 
 
  ### Overview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agahEbrahimi&theme=prussian&exclude_days=Fri%2CSat&excludeDaysLabel=EB545400)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agahEbrahimi&theme=prussian)]()
 </div>
 
