@@ -37,7 +37,7 @@
  ![Postman](https://img.shields.io/badge/%E2%80%8E-postman-205295?style=for-the-badge&logo=postman&logoColor=)
  
 
- 
+
   ### Suites
  ![AWS](https://img.shields.io/badge/%E2%80%8E-AWS-2C74B3?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
  ![GCP](https://img.shields.io/badge/%E2%80%8E-GCP-2C74B3?style=for-the-badge&logo=googlecloud&logoColor=)
